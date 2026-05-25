@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-## Reg no : 212224220013
-## Name : ASWIKA B
+## Reg no : 212224220041
+## Name : JAWAHAR BABU S
 
 ## Aim:
 To study the execution of various Linux operating system commands.
