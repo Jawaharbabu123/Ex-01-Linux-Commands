@@ -1,4 +1,4 @@
-# Ex-01-Linux-Commands
+# Ex-02-Linux-Commands
 ## Reg no : 212224220041
 ## Name : JAWAHAR BABU S
 
